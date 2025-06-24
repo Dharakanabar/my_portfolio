@@ -73,7 +73,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 // Download resume button handler
 function handleDownload() {
-    const resumeUrl = "./assets/https:/my-portfolio-azure-delta-77.vercel.app/";
+    const resumeUrl = "./assets/https:Dhara Kanabar-Node.Js-CV (1).pdf/";
     const link = document.createElement("a");
     link.href = resumeUrl;
     link.download = "DharaKanabar_Resume.pdf";
